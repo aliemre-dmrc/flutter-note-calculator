@@ -1,4 +1,4 @@
-# dinami_not_ortalama_hesaplama
+# note-calcutalor with Flutter
 
 Dinamik Ortalama Hesaplam Programı
 
